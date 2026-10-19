@@ -48,7 +48,7 @@ Kadangi duomenys yra tik jūsų telefone, juos visada galite peržiūrėti, eksp
 Atsarginė kopija) arba ištrinti (ištrynus programėlę).
 
 ### Kontaktai
-[ĮRAŠYKITE SAVO EL. PAŠTĄ]
+kurvilius2@gmail.com
 
 ---
 
@@ -96,4 +96,4 @@ As the data is only on your phone, you can always view it, export it (Settings �
 delete it (by uninstalling the app).
 
 ### Contact
-[YOUR E-MAIL]
+kurvilius2@gmail.com
