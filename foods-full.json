@@ -1,11 +1,11 @@
 {
-  "version": "202610130708",
+  "version": "202610270845",
   "offExport": "2026-10-09",
   "usda": 8012,
   "eu": 5811,
   "off": 358699,
   "file": "foods-full.db.gz",
-  "bytes": 151498752,
-  "md5": "e6725e6f96dc7514a020d8596e706d6b",
-  "gzBytes": 44892131
+  "bytes": 151502848,
+  "md5": "1bd5abfc8541e17e0a20600dcd21d6f5",
+  "gzBytes": 44891631
 }
